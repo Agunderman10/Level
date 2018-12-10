@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Level</string>
+    <string name="mode_ready">To use the Level, put your device on the surface you wish to level and tap the screen.
+        The white ball in the center of the screen will move depending on if the surface is level or not. If it is not
+        level, the ball will move in the direction of the decline of the surface. The measurement will restart once
+        the ball hits any of the walls. However, if you would like to restart the measurement before the ball hits
+        a wall you may tap the screen to restart.</string>
+    <string name="menu_start">Start</string>
+    <string name="mode_win">Win</string>
+    <string name="score_text"></string>
+
+</resources>
